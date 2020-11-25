@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/vincelim/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/vincelim/static/js/main.6f43980f.chunk.js",
+    "main.js.map": "/vincelim/static/js/main.6f43980f.chunk.js.map",
+    "runtime-main.js": "/vincelim/static/js/runtime-main.4683000f.js",
+    "runtime-main.js.map": "/vincelim/static/js/runtime-main.4683000f.js.map",
+    "static/js/2.05e811fe.chunk.js": "/vincelim/static/js/2.05e811fe.chunk.js",
+    "static/js/2.05e811fe.chunk.js.map": "/vincelim/static/js/2.05e811fe.chunk.js.map",
+    "static/js/3.b416510d.chunk.js": "/vincelim/static/js/3.b416510d.chunk.js",
+    "static/js/3.b416510d.chunk.js.map": "/vincelim/static/js/3.b416510d.chunk.js.map",
+    "index.html": "/vincelim/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/vincelim/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.05e811fe.chunk.js.LICENSE.txt": "/vincelim/static/js/2.05e811fe.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/vincelim/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4683000f.js",
+    "static/js/2.05e811fe.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.6f43980f.chunk.js"
+  ]
+}
